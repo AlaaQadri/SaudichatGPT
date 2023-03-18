@@ -1,34 +1,26 @@
-# Noon Perfume
+# CoursesQA
 
 
 ## Team members
 
 | Team members   | Role |
 | ----------- | ----------- |
-| Alaa |  |
-| Khalid | |
-| Raghad Alsalamah | |
+| Alaa | leader - build QA tool - presentation - deployment |
+| Samah | build dataset -presentation |
+
 
 ## Goal:
-The aim of this project is to know the highest rated perfumes. This will help to know the most purchased products so tha sellers can provide these products or help producers produce perfumes similar to the highest rated perfumes.
+The project aims to provide a tool capable of responding to inquiries and frequent questions about a topic of interest to the concerned party with very accurate answers, such as responding to inquiries about specific courses and accessing information from the unstructured database by linking chatGPT with Roberta, and this will reduce the burden on the staff responsible for this task.
 
 ## Dataset:
-Noon is the lifestyle shopping destination for the region in Saudi Arabia, with the largest online selection of leading brands in categories such as electronics, fashion, health & beauty, fragrances, grocery, baby products, and homeware. Noon is a large online marketplace in the Middle East.
-Data was collected from the perfume section for female, male, and unisex departments.This dataset shows the scent notes of perfume in different brands. Since perfume is a product category that has a high profit margin in this region.
-
-The dataset is available through the [kaggle.](https://www.kaggle.com/datasets/monirahabdulaziz/noon-perfume)
+We used the camps set up by Tuwaiq Academy during this month
 
 
-## Final results of ML models
+## 
 
-|    | Results |
+|    | Advantages |
 | ----------- | ----------- |
-| 1|  |
-| 2|  |
-| 3|  |
-| 4|  |
-| 5|  |
-| 6|  |
-| 7|  |
-| 8|  |
-| 9|  |
+| 1| The tool can be used to connect any database to any party   |
+| 2|Use Roberta model for embedding data instead of using chat gpt's embedding because of its limitations  |
+| 3|It can be used as a tool and linked to any project through an API  |
+
